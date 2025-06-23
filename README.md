@@ -50,8 +50,3 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
     * Asegurarte de que la extensión **cURL** de PHP está activada en tu archivo `php.ini`.
 
 2.  **Clona el repositorio** (o simplemente guarda el archivo `index.php` en una carpeta):
-
-    ```bash
-    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-    cd tu-repositorio
-    ```
